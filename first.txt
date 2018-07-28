@@ -1,0 +1,3 @@
+Hi I am Ping
+this is my first github 
+version 1
